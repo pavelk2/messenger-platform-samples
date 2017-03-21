@@ -4,6 +4,7 @@ This project is an example server for Messenger Platform built in Node.js. With 
 
 It contains the following functionality:
 
+
 * Webhook (specifically for Messenger Platform events)
 * Send API 
 * Web Plugins
@@ -34,3 +35,4 @@ An example of the "Send to Messenger" plugin and "Message Us" plugin are located
 ## License
 
 See the LICENSE file in the root directory of this source tree. Feel free to useand modify the code.
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
